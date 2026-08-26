@@ -1,0 +1,17 @@
+.pagina {
+  min-height: 100vh;
+  background-image: url("/nautico.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  position: relative;
+}
+
+.pagina h1 {
+  position: absolute;
+  right: 20px;
+  bottom: 20px;
+  color: white;
+  font-size: 24px;
+}
